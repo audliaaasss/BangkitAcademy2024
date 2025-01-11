@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Custom Colors Light Theme -->
+    <color name="light_green">#D6E0DF</color>
+    <color name="green">#76AAA5</color>
+    <color name="purple">#CAB4D8</color>
+    <color name="light_purple">#BEADC1</color>
+
+    <!-- Custom Colors Dark Theme -->
+    <color name="dark_blue">#062134</color>
+    <color name="dark_purple">#552E67</color>
+    <color name="dark_green">#237E83</color>
+    <color name="light_blue">#A8BBC9</color>
+</resources>

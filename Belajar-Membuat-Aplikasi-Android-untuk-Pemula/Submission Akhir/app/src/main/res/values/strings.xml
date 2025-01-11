@@ -1,0 +1,227 @@
+<resources>
+    <string name="app_name">MyBridgertonBook</string>
+
+    <string name="description">Description</string>
+
+    <string-array name="data_title">
+        <item>The Duke And I</item>
+        <item>The Viscount Who Loved Me</item>
+        <item>An Offer From A Gentleman</item>
+        <item>Romancing Mister Bridgerton</item>
+        <item>To Sir Phillip, With Love</item>
+        <item>When He Was Wicked</item>
+        <item>It\'s In His Kiss</item>
+        <item>On The Way To The Wedding</item>
+        <item>The Bridgertons: Happily Ever After</item>
+        <item>Queen Charlotte</item>
+        <item>Because Of Miss Bridgerton</item>
+        <item>The Girl With The Make-Believe Husband</item>
+        <item>The Other Miss Bridgerton</item>
+        <item>First Comes Scandal</item>
+    </string-array>
+
+    <string-array name="data_synopsys">
+        <item>\t\t\tCan there be any greater challenge to London’s Ambitious Mamas than an unmarried duke?
+            \nLady Whistledown’s Society Papers,
+            \nApril 1813
+            \n
+            \n\t\t\tBy all accounts, Simon Basset is on the verge of proposing to his best friend’s sister, the lovely—and almost-on-the-shelf—Daphne Bridgerton. But the two of them know the truth—it’s all an elaborate plan to keep Simon free from marriage-minded society mothers. And as for Daphne, surely she will attract some worthy suitors now that it seems a duke has declared her desirable.
+            \n
+            \n\t\t\tBut as Daphne waltzes across ballroom after ballroom with Simon, it’s hard to remember that their courtship is a complete sham. Maybe it’s his devilish smile, certainly it’s the way his eyes seem to burn every time he looks at her… but somehow Daphne is falling for the dashing duke… for real! And now she must do the impossible and convince the handsome rogue that their clever little scheme deserves a slight alteration, and that nothing makes quite as much sense as falling in love…</item>
+        <item>\t\t\t1814 promises to be another eventful season, but not, This Author believes, for Anthony Bridgerton, London’s most elusive bachelor, who has shown no indication that he plans to marry.
+            \n\t\t\tAnd in truth, why should he? When it comes to playing the consummate rake, nobody does it better…
+            \nLady Whistledown’s Society Papers,
+            \nApril 1814
+            \n
+            \n\t\t\tBut this time the gossip columnists have it wrong. Anthony Bridgerton hasn’t just decided to marry—he’s even chosen a wife! The only obstacle is his intended’s older sister, Kate Sheffield—the most meddlesome woman ever to grace a London ballroom. The spirited schemer is driving Anthony mad with her determination to stop the betrothal, but when he closes his eyes at night, Kate is the woman haunting his increasingly erotic dreams…
+            \n
+            \n\t\t\tContrary to popular belief, Kate is quite sure that reformed rakes do not make the best husbands—and Anthony Bridgerton is the most wicked rogue of them all. Kate is determined to protect her sister—but she fears her own heart is vulnerable. And when Anthony’s lips touch hers, she’s suddenly afraid she might not be able to resist the reprehensible rake herself…</item>
+        <item>\t\t\tSophie Beckett never dreamed she’d be able to sneak into Lady Bridgerton’s famed masquerade ball—or that “Prince Charming” would be waiting there for her! Though the daughter of an earl, Sophie has been relegated to the role of servant by her disdainful stepmother. But now, spinning in the strong arms of the debonair and devastatingly handsome Benedict Bridgerton, she feels like royalty. Alas, she knows all enchantments must end when the clock strikes midnight.
+            \n
+            \n\t\t\tEver since that magical night, a radiant vision in silver has blinded Benedict to the attractions of any other—except, perhaps this alluring and oddly familiar beauty dressed in housemaid’s garb whom he feels compelled to rescue from a most disagreeable situation. He has sworn to find and wed his mystery miss, but this breathtaking maid makes him weak with wanting her. Yet, if he offers his heart, will Benedict sacrifice his only chance for a fairy tale love?</item>
+        <item>\t\t\tPenelope Featherington has secretly adored her best friend’s brother for… well, it feels like forever. After half a lifetime of watching Colin Bridgerton from afar, she thinks she knows everything about him, until she stumbles across his deepest secret… and fears she doesn’t know him at all.
+            \n
+            \n\t\t\tColin Bridgerton is tired of being thought nothing but an empty-headed charmer, tired of the neverending sameness of his life, and, most of all, tired of everyone’s preoccupation with the notorious gossip columnist Lady Whistledown, who can’t seem to publish an edition without mentioning him in the first paragraph. But when Colin returns to London from a trip abroad, he discovers nothing in his life is quite the same—especially Penelope Featherington! The girl who was always simply… there is suddenly the girl haunting his dreams. But when he discovers that Penelope has secrets of her own, this elusive bachelor must decide…is she his biggest threat—or his promise of a happy ending?</item>
+        <item>\t\t\tMy dear Miss Bridgerton,
+            \n\t\t\tWe have been corresponding now for quite some time, and although we have never formally met, I feel as if I know you.
+            \n\t\t\tForgive me if I am too bold, but I am writing to invite you to visit me. It is my hope that we might decide that we will suit, and you will consent to be my wife.
+            \n—Sir Phillip Crane
+            \n
+            \n\t\t\tSir Phillip Crane knew that Eloise Bridgerton was a spinster, and so he’d proposed, figuring that she’d be homely and unassuming, and more than a little desperate for an offer of marriage. Except… she wasn’t. The beautiful woman on his doorstep was anything but quiet, and when she stopped talking long enough to close her mouth, all he wanted to do was kiss her… and more.
+            \n
+            \n\t\t\tDid he think she was mad? Eloise Bridgerton couldn’t marry a man she had never met! But then she started thinking… and wondering… and before she knew it, she was in a hired carriage in the middle of the night, on her way to meet the man she hoped might be her perfect match. Except… he wasn’t. Her perfect husband wouldn’t be so moody and ill-mannered, and while Phillip was certainly handsome, he was a large brute of a man, rough and rugged, and totally unlike the London gentlemen vying for her hand. But when he smiled… and when he kissed her… the rest of the world simply fell away, and she couldn’t help but wonder… could this imperfect man be perfect for her?</item>
+        <item>\t\t\tIn every life there is a turning point.
+            \n
+            \n\t\t\tA moment so tremendous, so sharp and breathtaking, that one knows one’s life will never be the same. For Michael Stirling, London’s most infamous rake, that moment came the first time he laid eyes on Francesca Bridgerton.
+            \n
+            \n\t\t\tAfter a lifetime of chasing women, of smiling slyly as they chased him, of allowing himself to be caught but never permitting his heart to become engaged, he took one look at Francesca Bridgerton and fell so fast and hard into love it was a wonder he managed to remain standing. Unfortunately for Michael, however, Francesca’s surname was to remain Bridgerton for only a mere thirty-six hours longer–the occasion of their meeting was, lamentably, a supper celebrating her imminent wedding to his cousin.
+            \n
+            \n\t\t\tBut that was then… Now Michael is the earl and Francesca is free, but still she thinks of him as nothing other than her dear friend and confidant. Michael dares not speak to her of his love… until one dangerous night, when she steps innocently into his arms, and passion proves stronger than even the most wicked of secrets…</item>
+        <item>\t\t\tMeet Our Hero…
+            \n\t\t\tGareth St. Clair is in a bind. His father, who detests him, is determined to beggar the St. Clair estates and ruin his inheritance. Gareth’s sole bequest is an old family diary, which may or may not contain the secrets of his past… and the key to his future. The problem is—it’s written in Italian, of which Gareth speaks not a word.
+            \n
+            \n\t\t\tMeet Our Heroine…
+            \n\t\t\tAll the ton agreed: there was no one quite like Hyacinth Bridgerton. She’s fiendishly smart, devilishly outspoken and according to Gareth, probably best in small doses. But there’s something about her—something charming and vexing—that grabs him and won’t quite let go…
+            \n
+            \n\t\t\tMeet Poor Mr. Mozart…
+            \n\t\t\tOr don’t. But rest assured, he’s spinning in his grave when Gareth and Hyacinth cross paths at the annual–and annually discordant—Smythe-Smith musicale. To Hyacinth, Gareth’s every word seems a dare, and she offers to translate his diary, even though her Italian is slightly less than perfect. But as they delve into the mysterious text, they discover that the answers they seek lie not in the diary, but in each other… and that there is nothing as simple—or as complicated—as a single, perfect kiss.</item>
+        <item>\t\t\tUnlike most men of his acquaintance, Gregory Bridgerton believes in true love. And he is convinced that when he finds the woman of his dreams, he will know in an instant that she is the one. And that is exactly what happened. Except…
+            \n
+            \n\t\t\tShe wasn’t the one. In fact, the ravishing Miss Hermione Watson is in love with someone else. But her best friend, the ever-practical Lady Lucinda Abernathy, wants to save Hermione from a disastrous alliance, so she offers to help Gregory win her over. But in the process, Lucy falls in love. With Gregory! Except…
+            \n
+            \n\t\t\tLucy is engaged. And her uncle is not inclined to let her back out of the betrothal, even once Gregory comes to his senses and realizes that it is Lucy, with her sharp wit and sunny smile, who makes his heart sing. And now, on the way to the wedding, Gregory must risk everything to ensure that when it comes time to kiss the bride, he is the only man standing at the altar…</item>
+        <item>\t\t\tOnce upon a time, a historical romance author created a family…
+            \n
+            \n\t\t\tBut not just any family. Eight brothers and sisters, assorted in-laws, sons and daughters, nieces and nephews, (not to mention an overweight corgi), plus an irrepressible matriarch who’s a match for any of them… These are the Bridgertons: less a family than a force of nature. Through eight bestselling novels, readers laughed, cried, and fell in love. But they wanted more.
+            \n
+            \n\t\t\tAnd so the readers asked the author…
+            \n
+            \n\t\t\tWhat happened next? Does Simon ever read his father’s letters? Do Francesca and Michael become parents? Who would win in a Pall Mall grudge match?
+            \n
+            \n\t\t\tDoes “The End” really have to be the end?
+            \n
+            \n\t\t\tNow, with The Bridgertons: Happily Ever After, Julia Quinn delivers eight sexy, funny, and heartwarming “2nd Epilogues,” plus a bonus story about none other than the wise and witty Violet Bridgerton herself. So get to know the Bridgertons all over again—because Happily Ever After is a whole lot of fun.</item>
+        <item>\t\t\t“We are one crown. His weight is mine, and mine is his…”
+            \n
+            \n\t\t\t1761, on a sunny day in September, a King and Queen met for the very first time. They were married within hours.
+            \n
+            \n\t\t\tBorn a German Princess, Charlotte of Mecklenburg-Strelitz was beautiful, headstrong, and fiercely intelligent… not precisely the attributes the British Court had been seeking in a spouse for the young King George III. But her fire and independence were exactly what she needed, because George had secrets… secrets with the potential to shake the very foundations of the monarchy.
+            \n
+            \n\t\t\tThrust into her new role as a royal, Charlotte must learn to navigate the intricate politics of the court… all the while guarding her heart, because she is falling in love with the King, even as he pushes her away. Above all she must learn to rule, and to understand that she has been given the power to remake society. She must fight—for herself, for her husband, and for all her new subjects who look to her for guidance and grace. For she will never be just Charlotte again. She must instead fulfill her destiny… as Queen.</item>
+        <item>\t\t\tSometimes you find love in the most unexpected of places…
+            \n
+            \n\t\t\tThis is not one of those times.
+            \n
+            \n\t\t\tEveryone expects Billie Bridgerton to marry one of the Rokesby brothers. The two families have been neighbors for centuries, and as a child the tomboyish Billie ran wild with Edward and Andrew. Either one would make a perfect husband… someday.
+            \n
+            \n\t\t\tSometimes you fall in love with exactly the person you think you should…
+            \n
+            \n\t\t\tOr not.
+            \n
+            \n\t\t\tThere is only one Rokesby Billie absolutely cannot tolerate, and that is George. He may be the eldest, and heir to the earldom, but he’s arrogant, annoying, and she’s absolutely certain he detests her. Which is perfectly convenient, as she can’t stand the sight of him, either.
+            \n
+            \n\t\t\tBut sometimes fate has a wicked sense of humor…
+            \n\t\t\tBecause when Billie and George are quite literally thrown together, a whole new sort of sparks begins to fly. And when these lifelong adversaries finally kiss, they just might discover that the one person they can’t abide is the one person they can’t live without…</item>
+        <item>\t\t\tWhile you were sleeping…
+            \n\t\t\tWith her brother Thomas injured on the battlefront in the Colonies, orphaned Cecilia Harcourt has two unbearable choices: move in with a maiden aunt or marry a scheming cousin. Instead, she chooses option three and travels across the Atlantic, determined to nurse her brother back to health. But after a week of searching, she finds not her brother but his best friend, the handsome officer Edward Rokesby. He’s unconscious and in desperate need of her care, and Cecilia vows that she will save this soldier’s life, even if staying by his side means telling one little lie…
+            \n
+            \n\t\t\tI told everyone I was your wife
+            \n\t\t\tWhen Edward comes to, he’s more than a little confused. The blow to his head knocked out three months of his memory, but surely he would recall getting married. He knows who Cecilia Harcourt is—even if he does not recall her face—and with everyone calling her his wife, he decides it must be true, even though he’d always assumed he’d marry his neighbor back in England.
+            \n
+            \n\t\t\tIf only it were true…
+            \n\t\t\tCecilia risks her entire future by giving herself—completely—to the man she loves. But when the truth comes out, Edward may have a few surprises of his own for the new Mrs. Rokesby.</item>
+        <item>\t\t\tShe was in the wrong place…
+            \n\t\t\tFiercely independent and adventurous, Poppy Bridgerton will only wed a suitor whose keen intellect and interests match her own. Sadly, none of the fools from her London season qualify. While visiting a friend on the Dorset coast, Poppy is pleasantly surprised to discover a smugglers’ hideaway tucked inside a cave. But her delight turns to dismay when two pirates kidnap her and take her aboard a ship, leaving her bound and gagged on the captain’s bed…
+            \n
+            \n\t\t\tHe found her at the wrong time…
+            \n\t\t\tKnown to society as a rascal and reckless privateer, Captain Andrew James Rokesby actually transports essential goods and documents for the British government. Setting sail on a time-sensitive voyage to Portugal, he’s stunned to find a woman waiting for him in his cabin. Surely, his imagination is getting the better of him. But no, she is very real—and his duty to the Crown means he’s stuck with her.
+            \n
+            \n\t\t\tCan two wrongs make the most perfect right?
+            \n\t\t\tWhen Andrew learns that she is a Bridgerton, he knows he will likely have to wed her to avert a scandal—though Poppy has no idea that he is the son of an earl and neighbor to her aristocratic cousins in Kent. On the high seas, their war of words soon gives way to an intoxicating passion. But when Andrew’s secret is revealed, will his declaration of love be enough to capture her heart…?</item>
+        <item>\t\t\tShe was given two choices…
+            \n\t\t\tGeorgiana Bridgerton isn’t against the idea of marriage. She’d just thought she’d have some say in the matter. But with her reputation hanging by a thread after she’s abducted for her dowry, Georgie is given two options: live out her life as a spinster or marry the rogue who has ruined her life.
+            \n
+            \n\t\t\tEnter Option #3
+            \n\t\t\tAs the fourth son of an earl, Nicholas Rokesby is prepared to chart his own course. He has a life in Edinburgh, where he’s close to completing his medical studies, and he has no time—or interest—to find a wife. But when he discovers that Georgie Bridgerton—his literal girl-next-door—is facing ruin, he knows what he must do.
+            \n
+            \n\t\t\tA Marriage of Convenience
+            \n\t\t\tIt might not have been the most romantic of proposals, but Nicholas never thought she’d say no. Georgie doesn’t want to be anyone’s sacrifice, and besides, they could never think of each other as anything more than childhood friends… or could they?
+            \n
+            \n\t\t\tBut as they embark upon their unorthodox courtship they discover a new twist to the age-old rhyme. First comes scandal, then comes marriage. But after that comes love…</item>
+    </string-array>
+
+    <string name="authors">Author</string>
+    <string name="author_name">Julia Quinn</string>
+
+    <string name="publisher">Publisher</string>
+    <string name="publisher_name">Avon</string>
+
+    <string name="published">Published on</string>
+    <string-array name="content_published">
+        <item>January 5, 2000</item>
+        <item>December 5, 2000</item>
+        <item>July 3, 2001</item>
+        <item>2002</item>
+        <item>2003</item>
+        <item>2004</item>
+        <item>2005</item>
+        <item>2013</item>
+        <item>May 9, 2023</item>
+        <item>March 29, 2016</item>
+        <item>May 30, 2017</item>
+        <item>November 20, 2018</item>
+        <item>April 21, 2020</item>
+    </string-array>
+
+    <string name="main_char">Main Characters</string>
+    <string-array name="content_mainchar">
+        <item>Daphne Bridgerton\nSimon Basset</item>
+        <item>Anthony Bridgerton\nKate Sheffield</item>
+        <item>Benedict Bridgerton\nSophie Beckett</item>
+        <item>Colin Bridgerton\nPenelope Featherington</item>
+        <item>Eloise Bridgerton\nSir Phillip Crane</item>
+        <item>Francesca Bridgerton\nMichael Stirling</item>
+        <item>Hyacinth Bridgerton\nGareth St. Clair</item>
+        <item>Gregory Bridgerton\nLucinda Abernathy</item>
+        <item>Violet Bridgerton</item>
+        <item>Queen Charlotte\nKing George III</item>
+        <item>George Rokesby\nBillie Bridgerton</item>
+        <item>Edward Rokesby\nCecilia Harcourt</item>
+        <item>Captain Andrew James Rokesby\nPoppy Bridgerton</item>
+        <item>Nicholas Rokesby\nGeorgiana Bridgerton</item>
+    </string-array>
+
+    <string name="prev">Previous Book</string>
+    <string-array name="content_prev_book">
+        <item>First Comes Scandal</item>
+        <item>The Duke and I</item>
+        <item>The Viscount Who Loved Me</item>
+        <item>An Offer from a Gentleman</item>
+        <item>Romancing Mister Bridgerton</item>
+        <item>To Sir Phillip, With Love</item>
+        <item>When He Was Wicked</item>
+        <item>It\'s In His Kiss</item>
+        <item>On The Way To The Wedding</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>Because of Miss Bridgerton</item>
+        <item>The Girl with the Make-Believe Husband</item>
+        <item>The Other Miss Bridgerton</item>
+    </string-array>
+
+    <string name="next">Next Book</string>
+    <string-array name="content_next_book">
+        <item>The Viscount Who Loved Me</item>
+        <item>An Offer from a Gentleman</item>
+        <item>Romancing Mister Bridgerton</item>
+        <item>To Sir Phillip, With Love</item>
+        <item>When He Was Wicked</item>
+        <item>It\'s In His Kiss</item>
+        <item>On The Way To The Wedding</item>
+        <item>The Bridgertons: Happily Ever After</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>The Girl with the Make-Believe Husband</item>
+        <item>The Other Miss Bridgerton</item>
+        <item>First Comes Scandal</item>
+        <item>The Duke and I</item>
+    </string-array>
+
+    <integer-array name="data_cover">
+        <item>@drawable/duke_and_i</item>
+        <item>@drawable/the_viscount</item>
+        <item>@drawable/offer_gentleman</item>
+        <item>@drawable/romancing_bridgerton</item>
+        <item>@drawable/sir_phillip</item>
+        <item>@drawable/was_wicked</item>
+        <item>@drawable/in_his_kiss</item>
+        <item>@drawable/to_the_wedding</item>
+        <item>@drawable/happily_everafter</item>
+        <item>@drawable/queen_charlotte</item>
+        <item>@drawable/because_bridgerton</item>
+        <item>@drawable/make_believe_husband</item>
+        <item>@drawable/other_bridgerton</item>
+        <item>@drawable/first_scandal</item>
+    </integer-array>
+
+</resources>
