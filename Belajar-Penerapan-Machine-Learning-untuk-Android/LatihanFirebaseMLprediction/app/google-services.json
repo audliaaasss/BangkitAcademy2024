@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825531931442",
+    "project_id": "fir-ml-dicoding-1d119",
+    "storage_bucket": "fir-ml-dicoding-1d119.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825531931442:android:af2a78d2b496b6b7dc552b",
+        "android_client_info": {
+          "package_name": "com.dicoding.latihantensorflowliteprediction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1pJGqmKHzyNpYWWteya13_HfNFkoj4hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
